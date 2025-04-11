@@ -1,5 +1,11 @@
 # @calamari-radix/sbor-ez-mode
 
+## 1.2.2
+
+### Patch Changes
+
+- bea08bd: minor change in a single error message
+
 ## 1.2.1
 
 ### Patch Changes

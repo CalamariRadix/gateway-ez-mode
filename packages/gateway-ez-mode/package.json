@@ -1,6 +1,6 @@
 {
   "name": "@calamari-radix/gateway-ez-mode",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
